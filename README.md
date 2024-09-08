@@ -1,4 +1,5 @@
-# Projeto inspirado no App Habitica
+# Habitica
+Projeto inspirado no App Habitica
 
 # Integrantes
 Gabriel Siqueira Rodrigues RM:98626
